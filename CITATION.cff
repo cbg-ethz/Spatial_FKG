@@ -1,0 +1,23 @@
+
+cff-version: 1.2.0
+message: "If you use Spatial-FKG, please cite this software."
+title: "Spatial-FKG: A scalable framework for stochastic simulation of spatial tumor-microenvironment evolution"
+type: software
+
+authors:
+  - given-names: "Shaoqing"
+    family-names: "Chen"
+    affiliation: "ETH Zurich and SIB Swiss Institute of Bioinformatics"
+
+  - given-names: "Jack"
+    family-names: "Kuipers"
+    affiliation: "ETH Zurich and SIB Swiss Institute of Bioinformatics"
+
+  - name: "Tumor Profiler Consortium"
+
+  - given-names: "Niko"
+    family-names: "Beerenwinkel"
+    affiliation: "ETH Zurich and SIB Swiss Institute of Bioinformatics"
+
+repository-code: "https://github.com/cbg-ethz/Spatial_FKG"
+license: MIT
